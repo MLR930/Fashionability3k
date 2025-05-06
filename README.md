@@ -13,6 +13,7 @@ We introduce a new Fashionability3k dataset (each outfit including clothes and s
 - Label=2: outfit<sub> i </sub> is more fashionable than outfit<sub> j </sub>;
 - Label=1: outfit<sub> i </sub> and outfit<sub> j </sub> are equally fashionable;
 - Label=0: outfit<sub> i </sub> is less fashionable than outfit<sub> j </sub>;
+- 10bins.txt: We adopt the ten‑bin method (Altwaijry & Belongie, 2013) to group samples by fashionability and sharply cut down the number of required comparisons. 10 bins are being used to emulate fashion levels 1 to 10, where bin10 ≻ bin9 ≻ ...... ≻ bin2 ≻ bin1.
 
 
 :bulb: **Reference**
