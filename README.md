@@ -1,4 +1,7 @@
 # Fashionability3k
+
+ [[DOWNLOAD]](https://drive.google.com/file/d/1_VPkPoPNM7n0X53IlIB3wvL5IlCNy63S/view?usp=drive_link)
+
 Dataset provided by us for ACADEMIC USAGE ONLY. If you want to use them in commercial products, please kindly send an email to lynn.ma.930@gmail.com for further inquiry.
 
 :bulb: **Brief Intro**
